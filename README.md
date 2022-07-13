@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GAndriano
 - 👀 I’m interested in web/software development and cryptocurrency
-- 🌱 I’m currently self-learning to become a full stack developer, with a passion for front-end designing 
+- 🌱 I’m currently self-learning with a passion for front-end designing 
 - Skills learned so far: html, css, js, npm, webpack, babel
 - 💞️ I’m looking to collaborate on anything that will help me grow and learn!
 - 📫 How to reach me:	
